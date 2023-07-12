@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 131.95 35.25">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 21.38px;
+      }
+
+      .cls-2 {
+        fill: #1d1d1b;
+        font-family: BellMTBold, 'Bell MT';
+      }
+
+      .cls-3 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-3, .cls-4 {
+        font-size: 32.32px;
+      }
+    </style>
+  </defs>
+  <text class="cls-2" transform="translate(0 26.62) scale(1.21 1)"><tspan class="cls-1" x="0" y="0">W</tspan><tspan class="cls-4" x="22.72" y="0">e</tspan><tspan class="cls-1" x="38.2" y="0">W</tspan><tspan class="cls-4" x="60.92" y="0">o</tspan><tspan class="cls-3" x="78.42" y="0">r</tspan><tspan class="cls-4" x="91.13" y="0">k</tspan></text>
+</svg>
